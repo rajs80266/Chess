@@ -1,0 +1,31 @@
+img
+{
+	height:80px;
+	width :80px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centeredw,.centeredb,.centeredc {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -95%);
+	color : darkblue;
+	display : none;
+}
+
+#bh81,#bg82,#bu83,#br84,#bk85,#bu86,#bg87,#bh88,#bs71,#bs72,#bs73,#bs74,#bs75,#bs76,#bs77,#bs78,
+#wh11,#wg12,#wu13,#wr14,#wk15,#wu16,#wg17,#wh18,#ws21,#ws22,#ws23,#ws24,#ws25,#ws26,#ws27,#ws28
+{
+	display:block;
+}
+
+#chess_board
+{
+	padding:10% 10% 10% 10%;
+}
